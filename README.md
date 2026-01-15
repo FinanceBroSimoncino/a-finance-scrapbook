@@ -1,1 +1,1 @@
-# a-finance-scrapbook
+# a finance scrapbook
